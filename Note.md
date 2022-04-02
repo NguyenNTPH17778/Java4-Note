@@ -8,5 +8,7 @@ Dopost đơng gói gửi về server, bảo mật, thời gian phản hồi lâu
 Respone đẩy dữ liệu về phía ng dùng
 Request đẩy dữ liệu về server
 Httprequest tương tác với server
+Eager Loading : lấy đc entities sẽ lấy luôn các quan hệ
+Lazy Loading : gọi đến mới truy vấn
 
 https://www.youtube.com/watch?v=3GnKDCn_rSQ&list=PL0YqB-plTBzuaaKdVI7ZWu-HF3XaUbpwP
